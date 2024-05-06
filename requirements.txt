@@ -1,0 +1,9 @@
+streamlit
+opencv-python
+xgboost
+numpy
+tensorflow
+joblib
+pandas
+seaborn
+matplotlib
